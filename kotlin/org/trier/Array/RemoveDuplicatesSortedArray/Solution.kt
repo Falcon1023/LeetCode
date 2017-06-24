@@ -1,4 +1,4 @@
-package org.trier.RemoveDuplicatesSortedArray
+package org.trier.Array.RemoveDuplicatesSortedArray
 
 /**
  * Description:

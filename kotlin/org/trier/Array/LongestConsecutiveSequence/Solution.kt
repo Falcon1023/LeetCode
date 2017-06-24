@@ -1,4 +1,4 @@
-package org.trier.LongestConsecutiveSequence
+package org.trier.Array.LongestConsecutiveSequence
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package org.trier.TwoSum
+package org.trier.Array.TwoSum
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package org.trier.`3Sum`
+package org.trier.Array.`3Sum`
 
 import java.util.*
 
@@ -20,7 +20,7 @@ import java.util.*
  */
 
 fun main(args:Array<String>){
-    var nums=arrayOf(-1,0,1,2,-1,-4)
+    val nums=arrayOf(-1,0,1,2,-1,-4)
     val list=threeSum(nums)
     list.map { print(it[0])
                print(it[1])
