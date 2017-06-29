@@ -4,10 +4,11 @@
 
 > The source folder that named java is used to place leetcode code
 
-##### Array
+##### org.trier.Array
 ###### 1.Remove Duplicates from Sorted Array
 ###### 2.Remove Duplicates from Sorted Array II
 ###### 3.Longest Consecutive Sequence
 ###### 4.TwoSum
 ###### 5.3Sum
 ###### 6.3Sum Closest
+###### 7.4Sum

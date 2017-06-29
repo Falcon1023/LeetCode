@@ -16,13 +16,18 @@ fun main(args:Array<String>){
 fun threeSumClosest(nums:Array<Int>,target:Int):Int{
     var min=Int.MAX_VALUE
     var current:Int
+    var result:Int=Int.MAX_VALUE
+    if (nums.size < 3)
+        return result
     var j:Int
     var k:Int
+    nums.sort()
     for (i in 0..nums.size-2){
         j=i+1
         k=nums.size-1
         while (j<k){
-            current=Math.abs((nums[i]+nums[j]+nums[k])-target)
+            result=nums[i]+nums[j]+nums[k]
+            current=Math.abs(result-target)
             if(current<min){
                 min=current
             }
@@ -34,5 +39,5 @@ fun threeSumClosest(nums:Array<Int>,target:Int):Int{
                 k--
         }
     }
-    return min
+    return result
 }
