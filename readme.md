@@ -14,3 +14,5 @@
 ##### 7.4Sum
 ##### 8.Remove Element
 ##### 9.Move Zeroes
+#### org.trier.Sort
+##### 1.Insert Sort
