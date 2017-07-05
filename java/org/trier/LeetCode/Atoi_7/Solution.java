@@ -1,4 +1,4 @@
-package org.trier.Atoi_7;
+package org.trier.LeetCode.Atoi_7;
 
 /**
  * Created by trier on 2017/5/6.

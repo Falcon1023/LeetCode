@@ -1,4 +1,4 @@
-package org.trier.Zigzag_6;
+package org.trier.LeetCode.Zigzag_6;
 
 /**
  * Created by trier on 2017/5/6.

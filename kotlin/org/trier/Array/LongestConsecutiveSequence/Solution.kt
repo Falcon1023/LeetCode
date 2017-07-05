@@ -38,6 +38,6 @@ fun main(args:Array<String>){
     for(i in 0 until num){
         nums[i]=scanner.nextInt()
     }
-    val longest=longestConsecutive(nums)
+    val longest= longestConsecutive(nums)
     println(longest)
 }

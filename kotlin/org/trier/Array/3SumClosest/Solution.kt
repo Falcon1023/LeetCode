@@ -10,7 +10,7 @@ package org.trier.Array.`3SumClosest`
 
 fun main(args:Array<String>){
     val nums= arrayOf(-1,2,1,-4)
-    print(threeSumClosest(nums,1))
+    print(threeSumClosest(nums, 1))
 }
 
 fun threeSumClosest(nums:Array<Int>,target:Int):Int{

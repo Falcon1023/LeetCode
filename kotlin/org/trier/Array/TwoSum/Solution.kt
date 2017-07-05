@@ -34,7 +34,7 @@ fun main(args:Array<String>){
         nums[i]=scanner.nextInt()
     }
     var target=scanner.nextInt()
-    var arr=twoSum(nums,target)
+    var arr= twoSum(nums, target)
     if(arr!=null)
         println("arr[0] is ${arr[0]}, and arr[1] is ${arr[1]}")
     else

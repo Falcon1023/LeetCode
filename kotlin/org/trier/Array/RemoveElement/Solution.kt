@@ -8,7 +8,7 @@ package org.trier.Array.RemoveElement
 
 fun main(args:Array<String>){
     val arr = arrayOf(3,4,5,6,1,2,3,4,5,6,3,2,3)
-    print(removeElement(arr,3))
+    print(removeElement(arr, 3))
 }
 
 fun removeElement(nums: Array<Int>, target: Int): Int{

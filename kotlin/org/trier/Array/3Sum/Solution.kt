@@ -21,7 +21,7 @@ import java.util.*
 
 fun main(args:Array<String>){
     val nums=arrayOf(-1,0,1,2,-1,-4)
-    val list=threeSum(nums)
+    val list= threeSum(nums)
     list.map { print(it[0])
                print(it[1])
                print(it[2])
