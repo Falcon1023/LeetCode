@@ -27,3 +27,6 @@ out/
 
 # Mac
 .DS_Store
+
+# C
+*exe
