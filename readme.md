@@ -1,10 +1,14 @@
-### Algorithm Topic with Java or Kotlin
+### Algorithm Topic with C, Java or Kotlin
 
-> The topics' description is written in topic
+#### C
+> This section focus on virtualjudge
 
-> The source folder that named java is used to place leetcode code
+#### Java
+> This section focus on leetcode
 
-#### org.trier.Array
+#### Kotlin
+> This section is messy, and the topic's description was written in source file
+- org.trier.Array
 ##### 1.Remove Duplicates from Sorted Array
 ##### 2.Remove Duplicates from Sorted Array II
 ##### 3.Longest Consecutive Sequence
@@ -14,5 +18,5 @@
 ##### 7.4Sum
 ##### 8.Remove Element
 ##### 9.Move Zeroes
-#### org.trier.Sort
+- org.trier.Sort
 ##### 1.Insert Sort
