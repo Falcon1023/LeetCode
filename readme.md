@@ -8,15 +8,16 @@
 
 #### Kotlin
 > This section is messy, and the topic's description was written in source file
-- org.trier.Array
-##### 1.Remove Duplicates from Sorted Array
-##### 2.Remove Duplicates from Sorted Array II
-##### 3.Longest Consecutive Sequence
-##### 4.TwoSum
-##### 5.3Sum
-##### 6.3Sum Closest
-##### 7.4Sum
-##### 8.Remove Element
-##### 9.Move Zeroes
-- org.trier.Sort
-##### 1.Insert Sort
+> The following description is package structure, every package is a topic
+- me.trierbo.Array
+ - Remove Duplicates from Sorted Array
+ - Remove Duplicates from Sorted Array II
+ - Longest Consecutive Sequence
+ - TwoSum
+ - 3Sum
+ - 3Sum Closest
+ - 4Sum
+ - Remove Element
+ - Move Zeroes
+- me.trierbo.Sort
+ - Insert Sort
