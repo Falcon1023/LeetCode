@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
+
+int flag;
 
 typedef struct Node
 {
@@ -9,11 +12,10 @@ typedef struct Node
 
 void insert(BSTNode **node, unsigned int num) {
   if(*node == NULL) {
-    BSTNode root;
-    root.num = num;
-    root.left = NULL;
-    root.right = NULL;
-    *node = &root;
+    *node = malloc(sizeof(BSTNode));
+    (*node)->num = num;
+    (*node)->left = NULL;
+    (*node)->right = NULL;
   } else {
     if ((*node)->num > num) {
       insert(&((*node)->left),num);
@@ -25,11 +27,40 @@ void insert(BSTNode **node, unsigned int num) {
 
 void preorder(BSTNode *root) {
   if(root) {
-    printf("%u", root->num);
+    if(!flag){
+      printf("%u", root->num);
+      flag = 1;
+    } else
+      printf(" %u", root->num);
     preorder(root->left);
     preorder(root->right);
   }
 }
+
+void inorder(BSTNode *root) {
+  if(root) {
+    inorder(root->left);
+    if(!flag){
+      printf("%u", root->num);
+      flag = 1;
+    } else
+      printf(" %u", root->num);
+    inorder(root->right);
+  }
+}
+
+void postorder(BSTNode *root) {
+  if(root) {
+    postorder(root->left);
+    postorder(root->right);
+    if(!flag){
+      printf("%u", root->num);
+      flag = 1;
+    } else
+      printf(" %u", root->num);
+  }
+}
+
 
 int main() {
   int t;
@@ -43,6 +74,15 @@ int main() {
       scanf("%u",&num);
       insert(&root,num);
     }
+    flag = 0;
     preorder(root);
+    printf("\n");
+    flag = 0;
+    inorder(root);
+    printf("\n");
+    flag = 0;
+    postorder(root);
+    printf("\n");
+    printf("\n");
   }
 }
