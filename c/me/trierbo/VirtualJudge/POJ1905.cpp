@@ -1,5 +1,5 @@
-#include<iostream>
-#include<cmath>
+#include <stdio.h>
+#include <cmath>
 #define esp 1e-4
 using namespace std;
 int main()
