@@ -1,4 +1,4 @@
-package me.trierbo.LeetCode.Atoi_7;
+package me.trierbo.LeetCode.Atoi_8;
 
 /**
  * Created by trier on 2017/5/6.
