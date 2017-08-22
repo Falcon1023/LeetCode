@@ -2,14 +2,18 @@
 ---
 
 #### C
-> This section focus on virtualjudge
-
+```
+This section focus on virtualjudge
+```
 #### Java
-> This section focus on leetcode
-
+```
+This section focus on leetcode
+```
 #### Kotlin
-> This section is messy, and the topic's description was written in source file
-> The following description is package structure, every package is a topic
+```
+This section is messy, and the topic's description was written in source file
+The following description is package structure, every package is a topic
+```
 - me.trierbo.Array
   - Remove Duplicates from Sorted Array
   - Remove Duplicates from Sorted Array II
