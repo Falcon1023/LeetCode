@@ -5,3 +5,6 @@ out/
 
 # C
 *exe
+
+# Java
+lib/
