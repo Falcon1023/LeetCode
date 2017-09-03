@@ -9,15 +9,9 @@ int main()
     cout << "bool: \t\t" << "所占字节数：" << sizeof(bool);  
     cout << "\t最大值：" << (numeric_limits<bool>::max)();  
     cout << "\t\t最小值：" << (numeric_limits<bool>::min)() << endl;  
-    cout << "char: \t\t" << "所占字节数：" << sizeof(char);  
-    cout << "\t最大值：" << (numeric_limits<char>::max)();  
-    cout << "\t\t最小值：" << (numeric_limits<char>::min)() << endl;  
-    cout << "signed char: \t" << "所占字节数：" << sizeof(signed char);  
-    cout << "\t最大值：" << (numeric_limits<signed char>::max)();  
-    cout << "\t\t最小值：" << (numeric_limits<signed char>::min)() << endl;  
-    cout << "unsigned char: \t" << "所占字节数：" << sizeof(unsigned char);  
-    cout << "\t最大值：" << (numeric_limits<unsigned char>::max)();  
-    cout << "\t\t最小值：" << (numeric_limits<unsigned char>::min)() << endl;  
+    cout << "char: \t\t" << "所占字节数：" << sizeof(char) << endl;  
+    cout << "signed char: \t" << "所占字节数：" << sizeof(signed char) << endl;  
+    cout << "unsigned char: \t" << "所占字节数：" << sizeof(unsigned char) << endl;  
     cout << "wchar_t: \t" << "所占字节数：" << sizeof(wchar_t);  
     cout << "\t最大值：" << (numeric_limits<wchar_t>::max)();  
     cout << "\t\t最小值：" << (numeric_limits<wchar_t>::min)() << endl;  
