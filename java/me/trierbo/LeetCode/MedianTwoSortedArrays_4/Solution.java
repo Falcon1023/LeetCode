@@ -14,9 +14,9 @@ public class Solution {
             int i = (start + end) / 2;
             int j = (m + n + 1) / 2 - i;
             if (i < m && nums1[i] < nums2[j-1]) {
-                start = i + 1;
+                start = i == end ? end : i+1;
             } else if (i > 0 && nums1[i-1] > nums2[j]) {
-                end = i - 1;
+                end = i == start ? start : i-1;
             } else {
                 int maxLeft;
                 if (i == 0) {
