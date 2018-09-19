@@ -1,5 +1,4 @@
-## Algorithm Topic with C or Java
----
+## Algorithm Topic with C/C++ or Java
 
 [LeetCode](https://leetcode.com/)
 
