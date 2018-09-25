@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.MergeTwoSortedLists_21;
-
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null)

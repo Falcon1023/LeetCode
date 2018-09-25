@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.LongestPalindromic_5;
-
 public class Sotution {
     public String longestPalindrome(String s) {
         int start = 0, end = 0;

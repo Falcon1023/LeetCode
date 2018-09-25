@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.LongestValidParentheses_32;
-
 import java.util.Stack;
 
 public class Solution {

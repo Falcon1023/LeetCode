@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.GenerateParentheses_22;
-
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.RemoveLinkedListElements_203;
-
 public class Solution {
     public ListNode removeElements(ListNode head, int val) {
         ListNode node = new ListNode(0);

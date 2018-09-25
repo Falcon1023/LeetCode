@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.RomantoInteger_13;
-
 public class Solution {
     public int romanToInt(String s) {
         int sum = 0;

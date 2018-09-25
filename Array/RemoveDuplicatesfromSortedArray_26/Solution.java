@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.RemoveDuplicatesfromSortedArray_26;
-
 public class Solution {
     public int removeDuplicates(int[] nums) {
         int res = 0;

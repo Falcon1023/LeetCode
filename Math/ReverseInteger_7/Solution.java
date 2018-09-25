@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.ReverseInteger_7;
-
 public class Solution {
     public int reverse(int x) {
         int res = 0;

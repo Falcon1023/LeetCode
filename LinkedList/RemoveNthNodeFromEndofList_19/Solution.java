@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.RemoveNthNodeFromEndofList_19;
-
 public class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode node = head;

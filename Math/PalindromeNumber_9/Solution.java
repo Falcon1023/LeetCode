@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.PalindromeNumber_9;
-
 public class Solution {
     public boolean isPalindrome(int x) {
         if (x < 0) return false;

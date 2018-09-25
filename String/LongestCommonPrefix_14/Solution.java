@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.LongestCommonPrefix_14;
-
 import java.util.Arrays;
 
 public class Solution {

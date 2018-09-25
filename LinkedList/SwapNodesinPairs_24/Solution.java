@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.SwapNodesinPairs_24;
-
 public class Solution {
     public ListNode swapPairs(ListNode head) {
         ListNode tmp = head;

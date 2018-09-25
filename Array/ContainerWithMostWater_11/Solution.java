@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.ContainerWithMostWater_11;
-
 public class Solution {
     public int maxArea(int[] height) {
       int start = 0, end = height.length - 1;

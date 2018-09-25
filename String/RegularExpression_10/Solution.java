@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.RegularExpression_10;
-
 public class Solution {
     public boolean isMatch(String s, String p) {
         if (p.isEmpty())

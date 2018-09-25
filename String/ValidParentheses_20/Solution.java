@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.ValidParentheses_20;
-
 import java.util.Stack;
 
 public class Solution {

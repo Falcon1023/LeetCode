@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.ThreeSumClosest_16;
-
 import java.util.Arrays;
 
 public class Solution {

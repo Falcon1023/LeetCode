@@ -1,8 +1,3 @@
-package me.trierbo.LeetCode.Zigzag_6;
-
-/**
- * Created by trier on 2017/5/6.
- */
 public class Solution {
     public String convert(String s, int numRows) {
         int length=s.length();

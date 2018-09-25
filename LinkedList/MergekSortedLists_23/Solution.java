@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.MergekSortedLists_23;
-
 import java.util.Comparator;
 import java.util.PriorityQueue;
 

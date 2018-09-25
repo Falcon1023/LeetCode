@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.ThreeSum_15;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

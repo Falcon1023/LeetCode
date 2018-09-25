@@ -1,5 +1,3 @@
-package me.trierbo.LeetCode.IntegertoRoman_12;
-
 public class Solution {
     public String intToRoman(int num) {
         String M[] = {"", "M", "MM", "MMM"};
