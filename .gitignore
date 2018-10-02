@@ -9,3 +9,10 @@ out/
 
 # Java
 lib/
+
+# vscode
+.vsocde/
+
+# CLion
+CMakeLists.txt
+cmake-build-debug/
