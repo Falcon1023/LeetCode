@@ -38,9 +38,9 @@ public:
     }
 };
 
-int main() {
-    Solution solution;
-    vector<string> combs = solution.restoreIpAddresses("010010");
-    for (string &comb: combs)
-        cout << comb << endl;
-}
+//int main() {
+//    Solution solution;
+//    vector<string> combs = solution.restoreIpAddresses("010010");
+//    for (string &comb: combs)
+//        cout << comb << endl;
+//}
