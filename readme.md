@@ -1,4 +1,4 @@
-## LeetCode with C/C++ or Java
+## LeetCode with C++ or Java
 
 :skull: `Easy` :skull: :skull: `Medium` :skull: :skull: :skull: `Hard`
 
