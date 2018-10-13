@@ -11,4 +11,5 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | :skull: :skull: | `String` `Dynamic Programming` | Java |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/38_CountandSay.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/58_LengthofLastWord.cpp) |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | :skull: :skull: | `String` `Dynamic Programming`| [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/91_DecodeWays.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | :skull: :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/151_ReverseWordsinaString.cpp) |
