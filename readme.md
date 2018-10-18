@@ -19,6 +19,7 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/58_LengthofLastWord.cpp) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | :skull: :skull: | `Math` `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/60_PermutationSequence.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/67_AddBinary.cpp) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | :skull: | `Math` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/69_Sqrt(x).cpp) |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | :skull: :skull: | `String` `Dynamic Programming`| [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/91_DecodeWays.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | :skull: :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/151_ReverseWordsinaString.cpp) |
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | :skull: :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/223_RectangleArea.cpp) |
