@@ -22,7 +22,8 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | :skull: | `Math` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/69_Sqrt(x).cpp) |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | :skull: :skull: | `String` `Dynamic Programming`| [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/91_DecodeWays.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | :skull: :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/151_ReverseWordsinaString.cpp) |
-| 168 | [Excel Sheet Column Title]() | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/168_ExcelSheetColumnTitle.cpp) |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-number/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/168_ExcelSheetColumnTitle.cpp) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/171_ExcelSheetColumnNumber.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/172_FactorialTrailingZeroes.cpp) |
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | :skull: :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/223_RectangleArea.cpp) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | :skull: | `Math`| [C++](https://github.com/trierbo/LeetCode/blob/master/Math/836_RectangleOverlap.cpp) |
