@@ -26,6 +26,7 @@
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/171_ExcelSheetColumnNumber.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/172_FactorialTrailingZeroes.cpp) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | :skull: | `Hash Table` `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/202_HappyNumber.cpp) |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | :skull: | `Hash Table` `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/204_CountPrimes.cpp) |
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | :skull: :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/223_RectangleArea.cpp) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | :skull: | `Math`| [C++](https://github.com/trierbo/LeetCode/blob/master/Math/836_RectangleOverlap.cpp) |
 | 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | :skull: :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/866_PrimePalindrome.cpp) |
