@@ -15,6 +15,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | :skull: | `Math` | [Java](https://github.com/trierbo/LeetCode/blob/master/Math/9_PalindromeNumber/Solution.java) |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | :skull: | `String` `Dynamic Programming` `Backtracking` | [Java](https://github.com/trierbo/LeetCode/blob/master/String/10_RegularExpression/Solution.java) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | :skull: :skull: | `Array`| [C++](https://github.com/trierbo/LeetCode/blob/master/Array/31_NextPermutation.cpp) |
+| 33 | [SearchInRotatedSortedArray](https://leetcode.com/problems/search-in-rotated-sorted-array/)| :skull: :skull: | `Array` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Array/33_SearchInRotatedSortedArray) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/38_CountandSay.cpp) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | :skull: :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/43_MultiplyStrings.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/58_LengthofLastWord.cpp) |
