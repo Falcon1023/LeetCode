@@ -17,6 +17,7 @@
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | :skull: :skull: | `Array`| [C++](https://github.com/trierbo/LeetCode/blob/master/Array/31_NextPermutation.cpp) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/38_CountandSay.cpp) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | :skull: :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/43_MultiplyStrings.cpp) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :skull: :skull: | `Array` | [C++](https://github.com/trierbo/LeetCode/blob/master/Array/48_RotateImage.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/58_LengthofLastWord.cpp) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | :skull: :skull: | `Math` `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/60_PermutationSequence.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/67_AddBinary.cpp) |
