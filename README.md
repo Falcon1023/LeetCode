@@ -17,6 +17,7 @@
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | :skull: :skull: | `Array`| [C++](https://github.com/trierbo/LeetCode/blob/master/Array/31_NextPermutation.cpp) |
 | 33 | [SearchInRotatedSortedArray](https://leetcode.com/problems/search-in-rotated-sorted-array/)| :skull: :skull: | `Array` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Array/33_SearchInRotatedSortedArray) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/38_CountandSay.cpp) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | :skull: :skull: | [C++](https://github.com/trierbo/LeetCode/blob/master/Backtracking/39_CombinationSum.cpp) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | :skull: :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/43_MultiplyStrings.cpp) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | :skull: :skull: | `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Backtracking/46_Permutations.cpp) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | :skull: :skull: | `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Backtracking/47_PermutationsII.cpp) |
