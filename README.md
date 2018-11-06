@@ -26,6 +26,7 @@
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | :skull: :skull: | `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Backtracking/47_PermutationsII.cpp) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | :skull: :skull: | `Array` | [C++](https://github.com/trierbo/LeetCode/blob/master/Array/48_RotateImage.cpp) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | :skull: :skull: | `Array` | [C++](https://github.com/trierbo/LeetCode/blob/master/Array/54_SpiralMatrix.cpp) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | :skull: :skull: | `Array` `Sort` | [C++](https://github.com/trierbo/LeetCode/blob/master/Sort/56_MergeIntervals.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/58_LengthofLastWord.cpp) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | :skull: :skull: | `Math` `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/60_PermutationSequence.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/67_AddBinary.cpp) |
