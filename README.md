@@ -32,6 +32,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | :skull: :skull: | `Linked List` `Two Pointers` | [C++](https://github.com/trierbo/LeetCode/blob/master/LinkedList/61_RotateList.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/67_AddBinary.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | :skull: | `Math` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/69_Sqrt(x).cpp) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | :skull: | `Dynamic Programming` | [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/70_ClimbingStairs.cpp) |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | :skull: :skull: | `String` `Dynamic Programming`| [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/91_DecodeWays.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | :skull: :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/151_ReverseWordsinaString.cpp) |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-number/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/168_ExcelSheetColumnTitle.cpp) |
