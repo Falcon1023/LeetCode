@@ -34,6 +34,7 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | :skull: | `Math` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/69_Sqrt(x).cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | :skull: | `Dynamic Programming` | [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/70_ClimbingStairs.cpp) |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | :skull: :skull: | `String` `Dynamic Programming`| [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/91_DecodeWays.cpp) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | :skull: | `Tree` `Depth-first Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Tree/100_SameTree.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | :skull: :skull: | `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/String/151_ReverseWordsinaString.cpp) |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-number/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/168_ExcelSheetColumnTitle.cpp) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | :skull: | `Math` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/171_ExcelSheetColumnNumber.cpp) |
