@@ -14,19 +14,17 @@ public:
             if (nums[mid] == target) {
                 res = mid;
                 break;
-            } else if (nums[beg] <= nums[end]) {
-                if (nums[mid] > target)
+            }
+            if (nums[mid] >= nums[beg]) {
+                if (target < nums[mid] && target >= nums[beg])
                     end = mid - 1;
                 else
                     beg = mid + 1;
             } else {
-                if (nums[mid] > nums[end] && nums[mid] < nums[beg])
-                    break;
-                else if ((target >= nums[beg] && (nums[mid] > target || nums[mid] < nums[beg]))
-                         || (target <= nums[end] && nums[mid] > target && nums[mid] < nums[beg]))
-                    end = mid - 1;
-                else
+                if (target > nums[mid] && target <= nums[end])
                     beg = mid + 1;
+                else
+                    end = mid - 1;
             }
         }
         return res;
