@@ -40,6 +40,7 @@
 | 82 | [Remove Duplicates from Sorted List II)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | :skull: :skull: | `Linked List` | [C++](https://github.com/trierbo/LeetCode/blob/master/LinkedList/82_RemoveDuplicatesFromSortedListII.cpp) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | :skull: | `Linked List` | [C++](https://github.com/trierbo/LeetCode/blob/master/LinkedList/83_RemoveDuplicatesFromSortedList.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | :skull: | `Array` `Two pointers` | [C++](https://github.com/trierbo/LeetCode/blob/master/TwoPointers/88_MergeSortedArray.cpp) |
+| 90 | [Subset II](https://leetcode.com/problems/subsets-ii/) | :skull: :skull: | `Array` `Backtracking` | [C++](https://github.com/trierbo/LeetCode/blob/master/Backtracking/90_SubsetsII.cpp) |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | :skull: :skull: | `String` `Dynamic Programming`| [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/91_DecodeWays.cpp) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | :skull: :skull: | `Linked List` | [C++](https://github.com/trierbo/LeetCode/blob/master/Tree/92_ReverseLinkedListII.cpp) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | :skull: | `Tree` `Depth-first Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Tree/100_SameTree.cpp) |
