@@ -34,6 +34,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | :skull: | `Math` `String` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/67_AddBinary.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | :skull: | `Math` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/Math/69_Sqrt(x).cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | :skull: | `Dynamic Programming` | [C++](https://github.com/trierbo/LeetCode/blob/master/DynamicProgramming/70_ClimbingStairs.cpp) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | :skull: :skull: | `Array` `Two Pointers` `Sort` | [C++](https://github.com/trierbo/LeetCode/blob/master/Sort/75_SortColors.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | :skull: :skull: | `Array` `Backtracking` `Bit Manipulation` | [C++](https://github.com/trierbo/LeetCode/blob/master/Backtracking/78_Subsets.cpp) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | :skull: :skull: | `Array` `Two Pointers` | [C++](https://github.com/trierbo/LeetCode/blob/master/Array/80_RemoveDuplicatesFromSortedArrayII.cpp) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| :skull: :skull: | `Array` `Binary Search` | [C++](https://github.com/trierbo/LeetCode/blob/master/BinarySearch/81_SearchInRotatedSortedArrayII.cpp) |
