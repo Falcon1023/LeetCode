@@ -12,14 +12,12 @@ public:
             return;
 
         int base = nums[beg];
-        int p = beg + 1, q = end;
-        while (true) {
-            while (q > beg && nums[q] >= base)
+        int p = beg, q = end;
+        while (p < q) {
+            while (p < q && nums[q] > base)
                 --q;
-            while (p < end && nums[p] < base)
+            while (p < q && nums[p] <= base)
                 ++p;
-            if (p >= q)
-                break;
             swap(nums, p, q);
         }
 
@@ -34,4 +32,3 @@ public:
         nums[q] = tmp;
     }
 };
-
