@@ -3,7 +3,7 @@
 .idea/
 out/
 
-# C
+# C++
 *.exe
 *.out
 
@@ -11,7 +11,7 @@ out/
 lib/
 
 # vscode
-.vsocde/
+.vscode/
 
 # CLion
 CMakeLists.txt
